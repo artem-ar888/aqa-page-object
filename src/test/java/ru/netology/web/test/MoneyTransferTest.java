@@ -1,4 +1,4 @@
-package ru.netology.web.ru.netology.web.test;
+package ru.netology.web.test;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
